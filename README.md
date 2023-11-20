@@ -9,7 +9,7 @@ Bringing over 10 years of commercial experience, I am deeply passionate about bo
 
 ## My Projects List
 
-## E-commerce Project in Next.js <img src="./assets/4x3/us.svg" alt="flag" class="flags-image" />
+## E-commerce Project in Next.js <img src="./assets/4x3/us.svg" alt="flag" class="flags-image" style="width: 20px; height: 20px;" />
 
 [![E-commerce Project in Next.js](assets/next13majster.jpg)](https://www.next13majster.pl/)
 
@@ -30,7 +30,7 @@ Next.js with TypeScript. Fully-fledged e-commerce store with Stripe payments (We
 
 ***
 
-## Liturgical Stores - Multilingual E-commerce <img src="./assets/4x3/pl.svg" alt="flag" class="flags-image" /> <img src="./assets/4x3/us.svg" alt="flag" class="flags-image" /> <img src="./assets/4x3/de.svg" alt="flag" class="flags-image" /> <img src="./assets/4x3/fr.svg" alt="flag" class="flags-image" /> <img src="./assets/4x3/it.svg" alt="flag" class="flags-image" /> <img src="./assets/4x3/es.svg" alt="flag" class="flags-image" /> <img src="./assets/4x3/pt.svg" alt="flag" class="flags-image" />
+## Liturgical Stores - Multilingual E-commerce <img src="./assets/4x3/pl.svg" alt="flag" class="flags-image" style="width: 20px; height: 20px;" /> <img src="./assets/4x3/us.svg" alt="flag" class="flags-image" style="width: 20px; height: 20px;" /> <img src="./assets/4x3/de.svg" alt="flag" class="flags-image" style="width: 20px; height: 20px;" /> <img src="./assets/4x3/fr.svg" alt="flag" class="flags-image" style="width: 20px; height: 20px;" /> <img src="./assets/4x3/it.svg" alt="flag" class="flags-image" style="width: 20px; height: 20px;" /> <img src="./assets/4x3/es.svg" alt="flag" class="flags-image" style="width: 20px; height: 20px;" /> <img src="./assets/4x3/pt.svg" alt="flag" class="flags-image" style="width: 20px; height: 20px;" />
 
 [![Liturgical Stores - Multilingual E-commerce](assets/lit.jpg)](https://www.liturgical-clothing.com/)
 
@@ -49,7 +49,7 @@ Dive into the world of Liturgical Stores, my pride and joy as a developer. This 
 
 ***
 
-## Citizen Budget - voting system <img src="./assets/4x3/pl.svg" alt="flag" class="flags-image" />
+## Citizen Budget - voting system <img src="./assets/4x3/pl.svg" alt="flag" class="flags-image" style="width: 20px; height: 20px;" />
 
 [![Citizen Budget - voting system](assets/mbo.jpg)](https://mragowo.budzetobywatelski.com/)
 
@@ -67,7 +67,7 @@ I created this system that enables residents to submit and vote on municipal pro
 
 ***
 
-## School Budget - Student Voting System <img src="./assets/4x3/pl.svg" alt="flag" class="flags-image" />
+## School Budget - Student Voting System <img src="./assets/4x3/pl.svg" alt="flag" class="flags-image" style="width: 20px; height: 20px;" />
 
 [![School Budget - Student Voting System](assets/sbo.jpg)](https://szkolny.budzetobywatelski.com/)
 
@@ -108,14 +108,3 @@ Integrations with dedicated systems and external services (Stripe, PayPal, InPos
 
 
 
-
-
-
-
-
-<style>
-.flags-image {
-  width: 20px;
-  height: 20px;
-}
-</style>
