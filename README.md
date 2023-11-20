@@ -84,7 +84,7 @@ Introducing the School Budget, a sibling project to the Citizen Budget voting sy
 
 ***
 
-## First Communion - E-commerce <img src="./assets/4x3/pl.svg" alt="flag" class="flags-image" /> 
+## First Communion - E-commerce <img src="./assets/4x3/pl.svg" alt="flag" class="flags-image" style="width: 20px; height: 20px;" /> 
 
 [![First Communion - E-commerce](assets/pk.jpg)](https://pierwszakomunia.pl/)
 
