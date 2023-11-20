@@ -9,7 +9,7 @@ Bringing over 10 years of commercial experience, I am deeply passionate about bo
 
 ## My Projects List
 
-## E-commerce Project in Next.js
+## E-commerce Project in Next.js <img src="./assets/4x3/us.svg" alt="flag" class="flags-image" />
 
 [![E-commerce Project in Next.js](assets/next13majster.jpg)](https://www.next13majster.pl/)
 
@@ -30,7 +30,7 @@ Next.js with TypeScript. Fully-fledged e-commerce store with Stripe payments (We
 
 ***
 
-## Liturgical Stores - Multilingual E-commerce
+## Liturgical Stores - Multilingual E-commerce <img src="./assets/4x3/pl.svg" alt="flag" class="flags-image" /> <img src="./assets/4x3/us.svg" alt="flag" class="flags-image" /> <img src="./assets/4x3/de.svg" alt="flag" class="flags-image" /> <img src="./assets/4x3/fr.svg" alt="flag" class="flags-image" /> <img src="./assets/4x3/it.svg" alt="flag" class="flags-image" /> <img src="./assets/4x3/es.svg" alt="flag" class="flags-image" /> <img src="./assets/4x3/pt.svg" alt="flag" class="flags-image" />
 
 [![Liturgical Stores - Multilingual E-commerce](assets/lit.jpg)](https://www.liturgical-clothing.com/)
 
@@ -49,7 +49,7 @@ Dive into the world of Liturgical Stores, my pride and joy as a developer. This 
 
 ***
 
-## Citizen Budget - voting system
+## Citizen Budget - voting system <img src="./assets/4x3/pl.svg" alt="flag" class="flags-image" />
 
 [![Citizen Budget - voting system](assets/mbo.jpg)](https://mragowo.budzetobywatelski.com/)
 
@@ -67,7 +67,7 @@ I created this system that enables residents to submit and vote on municipal pro
 
 ***
 
-## School Budget - Student Voting System
+## School Budget - Student Voting System <img src="./assets/4x3/pl.svg" alt="flag" class="flags-image" />
 
 [![School Budget - Student Voting System](assets/sbo.jpg)](https://szkolny.budzetobywatelski.com/)
 
@@ -81,3 +81,41 @@ Introducing the School Budget, a sibling project to the Citizen Budget voting sy
 - Adobe XD
 
 #### LIVE: [https://szkolny.budzetobywatelski.com/](https://szkolny.budzetobywatelski.com/)
+
+***
+
+## First Communion - E-commerce <img src="./assets/4x3/pl.svg" alt="flag" class="flags-image" /> 
+
+[![First Communion - E-commerce](assets/pk.jpg)](https://pierwszakomunia.pl/)
+
+
+I invite you to explore the world of the Store with articles for the First Holy Communion, one of my many inspiring projects as a programmer. This project is an excellent reflection of my skills in creating e-commerce platforms. The store, dedicated to purchases related to the First Holy Communion, was created using advanced technologies such as PrestaShop, PHP (Symfony), MySQL, JavaScript, SCSS CSS, utilizing a VPS based on CentOS and the Plesk administrative panel.
+
+Integrations with dedicated systems and external services (Stripe, PayPal, InPost, GLS) emphasize my skills in web development and the ability to tailor the platform to specific customer requirements. With this project, I not only showcase my experience in the e-commerce field but also demonstrate a commitment to delivering personalized solutions, especially in the context of preparations for the special event of the First Holy Communion.
+
+#### TECH STACK:
+- PrestaShop
+- PHP (Symfony)
+- MySQL
+- JavaScript
+- SCSS CSS
+- VPS + CentOS + Plesk
+- Adobe XD
+
+#### LIVE: [https://pierwszakomunia.pl/](https://pierwszakomunia.pl/)
+
+***
+
+
+
+
+
+
+
+
+<style>
+.flags-image {
+  width: 20px;
+  height: 20px;
+}
+</style>
