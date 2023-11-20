@@ -26,6 +26,8 @@ Next.js with TypeScript. Fully-fledged e-commerce store with Stripe payments (We
 - Stripe
 - Vercel
 
+#### DESIGN: My project
+
 #### LIVE: [https://www.next13majster.pl/](https://www.next13majster.pl/)
 
 ***
@@ -45,11 +47,34 @@ Dive into the world of Liturgical Stores, my pride and joy as a developer. This 
 - AWS Lightsail
 - Adobe XD
 
+#### DESIGN: My project
+
 #### LIVE: [https://www.liturgical-clothing.com/](https://www.liturgical-clothing.com/)
 
 ***
 
-## Citizen Budget - voting system <img src="./assets/4x3/pl.svg" alt="flag" class="flags-image" style="width: 20px; height: 20px;" />
+## Liturgical Stores - Multilingual E-commerce <img src="./assets/4x3/pl.svg" alt="flag" class="flags-image" style="width: 20px; height: 20px;" /> <img src="./assets/4x3/de.svg" alt="flag" class="flags-image" style="width: 20px; height: 20px;" />
+
+[![First Communion - Multilingual E-commerce](assets/uk.jpg)](https://www.ubiory-komunijne.pl/)
+
+
+
+#### TECH STACK:
+- PrestaShop
+- PHP (Symfony)
+- MySQL
+- JavaScript
+- SCSS CSS
+- AWS Lightsail
+- Adobe XD
+
+#### DESIGN: My project
+
+#### LIVE: [https://www.ubiory-komunijne.pl/](https://www.ubiory-komunijne.pl/)
+
+***
+
+## Citizen Budget - Dedicated Voting system <img src="./assets/4x3/pl.svg" alt="flag" class="flags-image" style="width: 20px; height: 20px;" />
 
 [![Citizen Budget - voting system](assets/mbo.jpg)](https://mragowo.budzetobywatelski.com/)
 
@@ -63,13 +88,15 @@ I created this system that enables residents to submit and vote on municipal pro
 - SMS API
 - Adobe XD
 
+#### DESIGN: My project
+
 #### LIVE: [https://mragowo.budzetobywatelski.com/](https://mragowo.budzetobywatelski.com/)
 
 ***
 
-## School Budget - Student Voting System <img src="./assets/4x3/pl.svg" alt="flag" class="flags-image" style="width: 20px; height: 20px;" />
+## School Budget - Dedicated Student Voting System <img src="./assets/4x3/pl.svg" alt="flag" class="flags-image" style="width: 20px; height: 20px;" />
 
-[![School Budget - Student Voting System](assets/sbo.jpg)](https://szkolny.budzetobywatelski.com/)
+[![School Budget - Dedicated Student Voting System](assets/sbo.jpg)](https://szkolny.budzetobywatelski.com/)
 
 Introducing the School Budget, a sibling project to the Citizen Budget voting system, tailored specifically for schools. The voting process is facilitated by one-time codes generated within the system and distributed to students. Successfully implemented in local schools for several years, this system empowers students to actively participate in decision-making processes.
 
@@ -79,6 +106,8 @@ Introducing the School Budget, a sibling project to the Citizen Budget voting sy
 - JavaScript
 - SCSS CSS
 - Adobe XD
+
+#### DESIGN: My project
 
 #### LIVE: [https://szkolny.budzetobywatelski.com/](https://szkolny.budzetobywatelski.com/)
 
@@ -102,9 +131,46 @@ Integrations with dedicated systems and external services (Stripe, PayPal, InPos
 - VPS + CentOS + Plesk
 - Adobe XD
 
+#### DESIGN: My project
+
 #### LIVE: [https://pierwszakomunia.pl/](https://pierwszakomunia.pl/)
 
 ***
 
+## QuadON.pl - E-commerce <img src="./assets/4x3/pl.svg" alt="flag" class="flags-image" style="width: 20px; height: 20px;" /> 
 
+[![First Communion - E-commerce](assets/quadon.jpg)](https://quadon.pl/)
+
+
+
+#### TECH STACK:
+- Wordpress
+- WooCommerce
+- JavaScript
+- SCSS CSS
+- Adobe XD
+
+#### DESIGN: My project
+
+#### LIVE: [https://quadon.pl/](https://quadon.pl/)
+
+***
+
+## fun-park.pl - Website <img src="./assets/4x3/pl.svg" alt="flag" class="flags-image" style="width: 20px; height: 20px;" /> 
+
+[![First Communion - E-commerce](assets/fun-park.jpg)](https://fun-park.pl/)
+
+
+
+#### TECH STACK:
+- Wordpress
+- JavaScript
+- SCSS CSS
+- Adobe XD
+
+#### DESIGN: My project
+
+#### LIVE: [https://fun-park.pl/](https://fun-park.pl/)
+
+***
 
