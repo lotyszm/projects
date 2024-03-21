@@ -18,13 +18,13 @@ I developed a fast and engaging website for a client offering apartment rentals,
 
 
 #### Tech Stack:
-- Next.js 14
-- TypeScript
-- Framer Motion for animations
-- TailwindCSS for responsive design
-- GraphQL for efficient data fetching
-- WordPress as Headless CMS for content management
-- Dedicated VPS server for superior performance and reliability
+- **Next.js 14**
+- **TypeScript**
+- **Framer Motion** for animations
+- **TailwindCSS** for responsive design
+- **GraphQL** for efficient data fetching
+- **WordPress as Headless CMS** for content management
+- **Dedicated VPS** server for superior performance and reliability
 
 #### Design:
 In designing this website, I focused on creating a seamless user journey that encourages engagement and conversions. By solving key performance challenges, optimizing for SEO, and ensuring web accessibility standards, the website not only stands out in terms of speed and usability but also ranks well on search engines.
