@@ -13,10 +13,11 @@ Bringing over 10 years of commercial experience, I am deeply passionate about bo
 
 [![High-Performance Website for Apartment Rentals](assets/mazurskiepokoje.jpg)](https://mazurskiepokoje.pl/)
 
-**Description:** I developed a fast and engaging website for a client offering apartment rentals, achieving excellent performance and high scores in Core Web Vitals, significantly enhancing user experience. Utilizing a modern tech stack, the site offers smooth animations with Framer Motion, an intuitive interface with TailwindCSS, and efficient data handling through GraphQL. WordPress serves as a headless CMS, enabling easy content management on a dedicated VPS server for unmatched reliability and speed.
+#### Description:
+I developed a fast and engaging website for a client offering apartment rentals, achieving excellent performance and high scores in Core Web Vitals, significantly enhancing user experience. Utilizing a modern tech stack, the site offers smooth animations with Framer Motion, an intuitive interface with TailwindCSS, and efficient data handling through GraphQL. WordPress serves as a headless CMS, enabling easy content management on a dedicated VPS server for unmatched reliability and speed.
 
 
-**Tech Stack:**
+#### Tech Stack:
 - Next.js 14
 - TypeScript
 - Framer Motion for animations
@@ -25,9 +26,11 @@ Bringing over 10 years of commercial experience, I am deeply passionate about bo
 - WordPress as Headless CMS for content management
 - Dedicated VPS server for superior performance and reliability
 
-**Design:** In designing this website, I focused on creating a seamless user journey that encourages engagement and conversions. By solving key performance challenges, optimizing for SEO, and ensuring web accessibility standards, the website not only stands out in terms of speed and usability but also ranks well on search engines.
+#### Design:
+In designing this website, I focused on creating a seamless user journey that encourages engagement and conversions. By solving key performance challenges, optimizing for SEO, and ensuring web accessibility standards, the website not only stands out in terms of speed and usability but also ranks well on search engines.
 
-**Results:** The website has received positive feedback for its performance, user-friendly design, and fast loading times, contributing to an increase in client inquiries and longer user sessions.
+#### Results:
+The website has received positive feedback for its performance, user-friendly design, and fast loading times, contributing to an increase in client inquiries and longer user sessions.
 
 #### LIVE: [https://mazurskiepokoje.pl/](https://mazurskiepokoje.pl/)
 
