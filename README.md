@@ -33,22 +33,30 @@ Bringing over 10 years of commercial experience, I am deeply passionate about bo
 
 ***
 
-## E-commerce Project in Next.js <img src="./assets/4x3/us.svg" alt="flag" class="flags-image" style="width: 20px; height: 20px;" />
+## Advanced E-commerce Platform in Next.js <img src="./assets/4x3/us.svg" alt="flag" class="flags-image" style="width: 20px; height: 20px;" />
 
-[![E-commerce Project in Next.js](assets/next13majster.jpg)](https://www.next13majster.pl/)
+[![Advanced E-commerce Platform in Next.js](assets/next13majster.jpg)](https://www.next13majster.pl/)
 
-Next.js with TypeScript. Fully-fledged e-commerce store with Stripe payments (WebHooks). Built on a custom GraphQL server tailored for this project, coupled with a PostgreSQL database hosted on supabase.com and Prisma ORM, the project enables efficient data management.
+#### Description:
+This project is a state-of-the-art e-commerce platform designed to provide a seamless shopping experience. Utilizing Next.js 14 with TypeScript, the site integrates Stripe for secure and versatile payment options, including WebHooks for real-time notifications. A custom GraphQL server was developed specifically for this project to ensure efficient and scalable data management, working in harmony with a PostgreSQL database hosted on Supabase.com. The incorporation of Prisma ORM streamlines database operations, facilitating robust and maintainable code. Deployed on Vercel, the website benefits from optimal performance and reliability.
 
 
-#### TECH STACK:
-- Next.js 14
-- TypeScript
-- tailwindcss
-- Prisma ORM
-- PostgreSQL
-- GraphQL
-- Stripe
-- Vercel
+#### Tech Stack:
+- **Next.js 14:** For a powerful and flexible React framework that enhances SEO and performance.
+- **TypeScript:** Ensuring type safety and improving the development process.
+- **TailwindCSS:** For a highly customizable, low-level CSS framework that accelerates development speed without sacrificing design flexibility.
+- **Prisma ORM:** Simplifies database operations, making the code more robust and easier to maintain.
+- **PostgreSQL:** Chosen for its advanced features and reliability, hosted on Supabase.com for enhanced scalability.
+- **GraphQL:** Enables efficient and precise data fetching, tailored specifically for this e-commerce project's needs.
+- **Stripe:** Integrates secure and versatile payment processing, enhancing the checkout experience.
+- **Vercel:** Ensures the site is always fast and reliable, leveraging global distribution.
+
+#### Features:
+- **Secure Payment Integration:** Stripe’s comprehensive payment system offers customers a wide range of payment options, increasing conversion rates.
+- **Customized Shopping Experience:** Leveraging advanced web technologies to provide a personalized and engaging user journey.
+- **Optimized for Performance and SEO:** The project is designed to load quickly and rank well in search engines, thanks to Next.js and efficient data fetching with GraphQL.
+- **Scalable Architecture:** Built with future expansion in mind, easily accommodating more products or services.
+
 
 #### DESIGN: My project
 
