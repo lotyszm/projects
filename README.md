@@ -36,6 +36,37 @@ The website has received positive feedback for its performance, user-friendly de
 
 ***
 
+## Accommodation Listing Application for City Office <img src="./assets/4x3/pl.svg" alt="flag" class="flags-image" style="width: 20px; height: 20px;" />
+
+[![Accommodation Listing Application for City Office](assets/noclegi-mikolajki.jpg)](https://noclegi.mikolajki.eu/)
+
+#### Description:
+Developed a sophisticated application for a city office, designed to streamline the process of listing and filtering accommodations such as hotels, rooms, and guesthouses. This platform enables users to efficiently search for accommodations based on a wide range of parameters included in the offer descriptions, such as location, price, amenities, and more. Utilizing Next.js 14 for its robust framework and integrating GraphQL for optimized data fetching, the application offers a seamless user experience. The design, conceptualized in Figma, ensures intuitive navigation and a user-friendly interface, while TailwindCSS facilitates a responsive and aesthetically pleasing design. Strapi CMS is used as the backend, allowing easy content management and updates. The application is hosted on a VPS, ensuring high performance and availability.
+
+
+#### Tech Stack:
+- **Next.js 14:** Offers a solid foundation with server-side rendering capabilities for SEO-friendly and high-performing web applications.
+- **GraphQL:** Employs efficient and flexible data queries, improving the speed and responsiveness of the application.
+- **TailwindCSS:** Utilized for its utility-first approach to styling, enabling rapid UI development without sacrificing design quality.
+- **Strapi CMS:** Provides a powerful headless CMS for easy management and updates of accommodation listings.
+- **Figma:** Used for UI/UX design, ensuring the application is both intuitive and visually appealing.
+- **VPS Hosting:** Guarantees high performance, reliability, and scalability, accommodating a growing number of listings and users.
+
+#### Features:
+- **Dynamic Filtering:** Allows users to filter accommodations based on various parameters, making it easier to find the perfect stay.
+- **User-Friendly Interface:** Designed with the end-user in mind, the application boasts an intuitive layout and easy navigation.
+- **Responsive Design:** Ensures a seamless experience across all devices, from desktops to smartphones.
+- **Content Management:** Enables the city office to easily add, update, or remove listings, keeping the database fresh and relevant.
+
+#### Impact:
+This application has transformed the way the city office and potential visitors interact with accommodation listings, providing an efficient and user-friendly tool that enhances the tourism experience. By facilitating easier access to accommodation information, the application supports the local tourism industry and improves overall visitor satisfaction.
+
+#### DESIGN: My project created in figma
+
+#### LIVE: [https://noclegi.mikolajki.eu/](https://noclegi.mikolajki.eu/)
+
+***
+
 ## Advanced E-commerce Platform in Next.js <img src="./assets/4x3/us.svg" alt="flag" class="flags-image" style="width: 20px; height: 20px;" />
 
 [![Advanced E-commerce Platform in Next.js](assets/next13majster.jpg)](https://www.next13majster.pl/)
