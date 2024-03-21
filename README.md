@@ -9,6 +9,30 @@ Bringing over 10 years of commercial experience, I am deeply passionate about bo
 
 ## My Projects List
 
+## High-Performance Website for Apartment Rentals <img src="./assets/4x3/pl.svg" alt="flag" class="flags-image" style="width: 20px; height: 20px;" />
+
+[![High-Performance Website for Apartment Rentals](assets/mazurskiepokoje.jpg)](https://mazurskiepokoje.pl/)
+
+**Description:** I developed a fast and engaging website for a client offering apartment rentals, achieving excellent performance and high scores in Core Web Vitals, significantly enhancing user experience. Utilizing a modern tech stack, the site offers smooth animations with Framer Motion, an intuitive interface with TailwindCSS, and efficient data handling through GraphQL. WordPress serves as a headless CMS, enabling easy content management on a dedicated VPS server for unmatched reliability and speed.
+
+
+**Tech Stack:**
+- Next.js 14
+- TypeScript
+- Framer Motion for animations
+- TailwindCSS for responsive design
+- GraphQL for efficient data fetching
+- WordPress as Headless CMS for content management
+- Dedicated VPS server for superior performance and reliability
+
+**Design:** In designing this website, I focused on creating a seamless user journey that encourages engagement and conversions. By solving key performance challenges, optimizing for SEO, and ensuring web accessibility standards, the website not only stands out in terms of speed and usability but also ranks well on search engines.
+
+**Results:** The website has received positive feedback for its performance, user-friendly design, and fast loading times, contributing to an increase in client inquiries and longer user sessions.
+
+#### LIVE: [https://mazurskiepokoje.pl/](https://mazurskiepokoje.pl/)
+
+***
+
 ## E-commerce Project in Next.js <img src="./assets/4x3/us.svg" alt="flag" class="flags-image" style="width: 20px; height: 20px;" />
 
 [![E-commerce Project in Next.js](assets/next13majster.jpg)](https://www.next13majster.pl/)
