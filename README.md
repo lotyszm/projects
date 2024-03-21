@@ -26,7 +26,7 @@ I developed a fast and engaging website for a client offering apartment rentals,
 - **WordPress as Headless CMS** for content management
 - **Dedicated VPS** server for superior performance and reliability
 
-#### Design:
+#### Design (created in figma):
 In designing this website, I focused on creating a seamless user journey that encourages engagement and conversions. By solving key performance challenges, optimizing for SEO, and ensuring web accessibility standards, the website not only stands out in terms of speed and usability but also ranks well on search engines.
 
 #### Results:
@@ -61,7 +61,7 @@ This project is a state-of-the-art e-commerce platform designed to provide a sea
 - **Scalable Architecture:** Built with future expansion in mind, easily accommodating more products or services.
 
 
-#### DESIGN: My project
+#### DESIGN: My project created in figma
 
 #### LIVE: [https://www.next13majster.pl/](https://www.next13majster.pl/)
 
